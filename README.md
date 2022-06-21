@@ -7,8 +7,6 @@ I am Vanshul Bhatia, currently I am a beginner learning JAVA, Web Development an
 [![Gmail Badge](https://img.shields.io/badge/-vanshulbhatia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshulbhatia@gmail.com)](mailto:vanshulbhatia@gmail.com)
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=VanshulB&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
 ## ⚡ Technologies
 
 ### Language :

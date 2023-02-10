@@ -1,6 +1,6 @@
 ## Hi, I am Vanshul! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Vanshul Bhatia, currently I am a beginner learning JAVA, Web Development and DevOps, I am a tech and open source enthusiast, currently looking for my first ever open source contribution. I have built some projects using basic HTML and CSS (static sites only). Find out more about me & feel free to connect with me here:
+Goals-driven Undergraduate student pursuing a B. Tech. in engineering with the carrer goal of becoming a software developer (expected in 2025), Enthusiast for Technology and Open Source development, Learning MERN, ReactJS and API development, and responsive design to improve the user experience for both mobile and desktop users. capable of using Java and JavaScript. adept with GraphQL and PostgreSQL
 
 [![Linkedin Badge](https://img.shields.io/badge/-VanshulBhatia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshul-bhatia-635a90235)](https://www.linkedin.com/in/vanshul-bhatia-635a90235)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40VanshulBhatia)](https://twitter.com/VanshulBhatia?t=GsnpW53xkVrSAZ-gd6vJ4A&s=09)

@@ -1,6 +1,6 @@
 ## Hi, I am Vanshul! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Goals-driven Undergraduate student pursuing a B. Tech. in engineering with the carrer goal of becoming a software developer (expected in 2025), Enthusiast for Technology and Open Source development, Learning MERN, ReactJS and API development, and responsive design to improve the user experience for both mobile and desktop users. capable of using Java and JavaScript. adept with GraphQL and PostgreSQL
+Goals-driven Undergraduate student pursuing B.Tech. in engineering with the career goal of becoming a Software Developer (expected in 2025), Enthusiast for Technology and Open Source Development, Learning Full Stack, ReactJS, API development and responsive design to improve the user experience for both mobile and desktop users. Capable of using Java and JavaScript. Adept with GraphQL and PostgreSQL
 
 [![Linkedin Badge](https://img.shields.io/badge/-VanshulBhatia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshul-bhatia-635a90235)](https://www.linkedin.com/in/vanshul-bhatia-635a90235)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40VanshulBhatia)](https://twitter.com/VanshulBhatia?t=GsnpW53xkVrSAZ-gd6vJ4A&s=09)
